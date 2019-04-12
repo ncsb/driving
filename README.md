@@ -10,7 +10,37 @@
 
 
 
+### buy new car must security
+- ABS 
+急刹的时候防止侧滑，跑偏，方向不受控制等等，个人觉得很重要，汽车必备
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================
+
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 -----------------------
 create a new repository on the command line
